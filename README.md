@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cesar-rdgz
-- 👀 I’m interested in Front-end and Back-end --> and on the near future Full stack web developer bro...
+- 👀 I’m interested in Front-end and Back-end --> that means Full stack web developer :)...
 - 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on Project that involve problem-solving mindset
 - 📫 How to reach me: my personal email cesarrdgz.18.95@gmail.com and linkedIn profile [profile](https://www.linkedin.com/in/webdeveloperandmkt/)
